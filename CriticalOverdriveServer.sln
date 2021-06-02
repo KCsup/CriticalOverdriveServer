@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriticalOverdriveServer", "CriticalOverdriveServer\CriticalOverdriveServer.csproj", "{43003B35-C182-4332-BCCA-5D31426B84B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43003B35-C182-4332-BCCA-5D31426B84B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43003B35-C182-4332-BCCA-5D31426B84B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43003B35-C182-4332-BCCA-5D31426B84B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43003B35-C182-4332-BCCA-5D31426B84B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {223A5AC2-903C-42C4-801D-23CB398C2173}
+	EndGlobalSection
+EndGlobal
